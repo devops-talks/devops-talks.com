@@ -1028,6 +1028,9 @@
 .fa-eraser:before {
   content: "\f12d";
 }
+.fa-medium:before {
+  content: "\f23a";
+}
 .fa-puzzle-piece:before {
   content: "\f12e";
 }
