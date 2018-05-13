@@ -1815,9 +1815,8 @@
 .fa-subway:before {
   content: "\f239";
 }
-
-.fa-medium-m:before {
-  content: "\f3c7";
+.fa-medium:before {
+  content: "\f23a";
 }
 .fa-yc:before,
 .fa-y-combinator:before {
