@@ -1,1 +1,1 @@
-# www.devops-talks.com
+devops-talks.com
