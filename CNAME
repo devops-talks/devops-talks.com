@@ -1,1 +1,0 @@
-devops-talks.com
